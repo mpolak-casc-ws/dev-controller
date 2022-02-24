@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "mpolak-casc-ws-dev-controller"
+description: "CloudBees CI configuration bundle for the mpolak-casc-ws dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/mpolak-casc-ws/dev-controller"
+parent: "base"
